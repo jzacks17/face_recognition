@@ -14,6 +14,6 @@ The facial recognition works by taking a photo and again recognizing a face with
 
 The webcam is default set to a USB webcam, if you are using a different computer you may need to manually change these lines of code to set your webcam object to match your webcam. 
 
-The minimum face detection size is set to 50x50 pixels. If you find that background objects are being picked up too frequently you can increase this size. If you find that no face is being detected too frequnetly you can decrease this size. 
+The minimum face detection size is set to 50x50 pixels. If you find that background objects are being picked up too frequently you can increase this size. If you find that no face is being detected too frequently you can decrease this size. 
 
 The minimum error for a match is set to 0.35. This can be adjusted manually in the code. 
