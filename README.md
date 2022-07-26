@@ -5,8 +5,8 @@ Before using the GUI add two empty folders to the MATLAB path, one titled "Datab
 
 Prior to using the app ensure you have the following add-ons installed on your version of MATLAB: 
 - USB Webcam Add-on
-- MATLAB Computer Vision Toolbox 
-- Statistics and machine learning toolbox??? (check to make sure)
+- Computer Vision Toolbox 
+- Statistics and machine learning toolbox
 
 The app registers users in the database by taking six photos of each user. Faces are recognized in the photo using the computer vision toolbox. If a face is not detected it will automatically retake the photo. If a background object is detected as a face, the photo can be re-taken using the dropdown menu. 
 
