@@ -1,5 +1,5 @@
 # face_recognition
-MATLAB GUI to perform facial recognition
+MATLAB app to perform facial recognition
 
 Before using the GUI add two empty folders to the MATLAB path, one titled "Database" and a second folder titled "Image". These folders are needed to store the users in the database as well as to store temporary images needed for the app to function properly. 
 
